@@ -1,0 +1,84 @@
+#EXTM3U
+
+#EXTINF:0,Dubai
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1200000.m3u8?time=1463320789960
+#EXTINF:0,Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,MBC 1
+http://srvs.topiptv.org:8000/live/bader/bader/22.ts
+#EXTINF:-1,MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC 3
+http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8
+
+#EXTINF:-1, MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1,MBC Maser
+http://srvs.topiptv.org:8000/live/bader/bader/21.ts
+#EXTINF:-1,MBC Maser 2
+http://srvs.topiptv.org:8000/live/bader/bader/27.ts
+#EXTINF:-1,AR=MBC-Drama
+http://iptv-star.com:50100/live/skype-iptv-star@hotmail.com/2d7zMPatnS/80.ts
+
+#EXTINF:-1,MBC_ACTION
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:-1,MBC_MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1, Kuwait-tv
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
+#EXTINF:-1,AR=Rotana-Masriya
+http://iptv-star.com:50100/live/skype-iptv-star@hotmail.com/2d7zMPatnS/96.ts
+#EXTINF:-1,Al-Kout-tv
+rtmp://66.23.237.233:1935/alkout/alkout
+#EXTINF:-1,Sharjah karbalah
+rtmp://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p
+#EXTINF:-1,Sharjah
+rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+#EXTINF:-1,AR=Karbala
+http://iptv-star.com:50100/live/skype-iptv-star@hotmail.com/2d7zMPatnS/792.ts
+#EXTINF:0,Abu Dhabi
+http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?alwhdat.net
+#EXTINF:0,Sama Dubai
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1200000.m3u8?v=1838232988
+#EXTINF:-1,Al Mayadeen
+http://cms.cyntel.co:8000/live/bavaria/bavaria/2387.ts
+#EXTINF:-1,Al Manar
+http://edge.mediaforall.net:1935/liveorigin/livestream_360p/playlist.m3u8
+#EXTINF:-1,MTV Liban
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+
+#EXTINF:-1,LBC
+rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
+
+#EXTINF:-1,NBN
+rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
+#EXTINF:-1,Addounia TV 
+rtmp://sama-tv.net/live/samatv
+#EXTINF:-1, Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+
+#EXTINF:-1, Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+
+#EXTINF:-1,Talaqie
+rtmp://82.137.248.20/Talaqie/TalaqieLive2
+#EXTINF:-1,Al Baghdadia 
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8 
+#EXTINF:-1,Al Hayat 
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8 
+#EXTINF:-1,Al Hayat 2 
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8 
+#EXTINF:-1,Al Ikhbaria syria 
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8 
+#EXTINF:-1,Al Kawthar 
+http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR 
+#EXTINF:-1,Al Maaref 
+http://almaareftv.com/wp/001-live/index.php/500-mbps/fvp/playlist.m3u8 
+#EXTINF:-1,Abu Dhabi Drama
+http://www.elahmad.com/tv/octoshape.php?file=streams.octoshape.net/abudhabi/lsp/live/flv/addramasd/abr
+#EXTINF:-1,EL NAHAR TV
+rtmp://87.98.155.194/endz/ playpath=EnnaharTV swfUrl=http://alwhdat.net/hdplayer/jwplayer.flash.swf live=1 pageUrl=http://alwhdat.net/abcdef12/1059/
+#EXTINF:-1,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
